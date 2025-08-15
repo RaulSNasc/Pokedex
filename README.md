@@ -6,9 +6,11 @@ Desenvolver uma aplicação web que permita ao usuário pesquisar seus pokémons
 
 Tecnologias utilizadas:
 
-JavaScript (ES6+);
-HTML5;
-CSS3.
+<div style= "display: inline_block"><br>
+  <img align="center" alt="Raul-HTML" height="30 width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
+  <img align="center" alt="Raul-JS" height="30 width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
+  <img align="center" alt="Raul-CSS" height="30 width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
+</div>
 
 O que aprendi:
 
