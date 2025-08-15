@@ -1,23 +1,39 @@
-## Projeto: Pokédex
+# 📱 Pokédex
 
-## Especificações Técnicas:
+Uma Pokédex interativa feita com **HTML5**, **CSS3** e **JavaScript**, utilizando a [PokéAPI](https://pokeapi.co/) para buscar informações sobre os Pokémons.
 
-Desenvolver uma aplicação web que permita ao usuário pesquisar seus pokémons favoritos e receber um gif deles. Esse foi meu primeiro projeto utilizando uma API, sistema de pesquisa e entrega.Focado principalmente em entregar uma ferramenta de pesquisa rápida dos pokémons.
+---
 
-Tecnologias utilizadas:
+## 🔍 Sobre o Projeto
 
-<div style= "display: inline_block"><br>
-  <img align="center" alt="Raul-HTML" height="30 width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
-  <img align="center" alt="Raul-JS" height="30 width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
-  <img align="center" alt="Raul-CSS" height="30 width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
-</div>
+Este projeto foi desenvolvido com o objetivo de praticar:
 
-O que aprendi:
+- Consumo de APIs REST
+- Layout responsivo
+- Manipulação do DOM com JavaScript puro
+- Estilização com CSS3
 
-Listagem de Eventos: utilização do "EventListener" para receber o número do usúario e entregar o pokémon adequado;
+A Pokédex permite:
 
-HTML e CSS: criação do site responsivo e estilização;
+- 🔎 Buscar Pokémons pelo nome ou ID  
+- 📲 Navegar entre Pokémons com botões (Próximo / Anterior)  
+- 📊 Ver informações como tipo, gif e número da Pokédex
 
-API: api utilizada como motor de armazenamento dos pokémons;
+---
 
-Condição: se não existir pokémon equivalente aquele número o usúario recebe a mensagem "Not Found".
+## 🚀 Tecnologias Utilizadas
+
+- HTML5  
+- CSS3  
+- JavaScript (Vanilla JS)  
+- [PokéAPI](https://pokeapi.co/) – API de dados dos Pokémons
+
+---
+
+## 🧠 Funcionalidades
+
+- ✅ Busca por nome ou ID
+- ✅ Navegação entre Pokémons
+- ✅ Exibição de gif, tipo e número
+- ✅ Interface responsiva
+
