@@ -2,7 +2,7 @@
 
 ## Especificações Técnicas:
 
-Desenvolver uma aplicação web que permita ao usuário pesquisar seus pokémons favoritos e receber um gif deles. Esse foi meu primeiro projeto utilizando uma API, sistema de pesquisa e entrega.Focado principalmente em entregar um bom site e uma boa ferramenta de pesquisa.
+Desenvolver uma aplicação web que permita ao usuário pesquisar seus pokémons favoritos e receber um gif deles. Esse foi meu primeiro projeto utilizando uma API, sistema de pesquisa e entrega.Focado principalmente em entregar uma ferramenta de pesquisa rápida dos pokémons.
 
 Tecnologias utilizadas:
 
